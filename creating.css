@@ -2,3 +2,6 @@
     color: aqua;
     text-align: center;
 }
+iframe {
+    font-size: 100%;
+}
