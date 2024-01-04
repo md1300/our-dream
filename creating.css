@@ -28,7 +28,8 @@
 }
 header > ul > li {
     display: inline;
-    margin: 100px;
+    margin-left: 5%;
+  
 }
 #taw {
     color:rgba(19, 32, 117, 0.774) ;
