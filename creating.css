@@ -2,7 +2,34 @@
     color: aqua;
     text-align: center;
     background-color: green;
+   margin-left: 25%;
+   margin-right: 25%;
 }
-iframe {
-    font-size: 100%;
+
+#om {
+    color:rgba(19, 32, 117, 0.774);
+  
+}
+#mo {
+    color: rgba(19, 32, 117, 0.774);
+}
+#ta {
+    background-color: azure;
+}
+#ot {
+    background-color:azure ;
+}
+#tao {
+    color: rgba(19, 32, 117, 0.774);
+
+}
+#oat {
+    background-color:azure ;
+}
+header > ul > li {
+    display: inline;
+    margin: 100px;
+}
+#taw {
+    color:rgba(19, 32, 117, 0.774) ;
 }
